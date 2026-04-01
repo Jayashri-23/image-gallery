@@ -7,7 +7,7 @@
             "https://images.pexels.com/photos/28445830/pexels-photo-28445830.jpeg",
             "https://images.pexels.com/photos/19671341/pexels-photo-19671341.jpeg",
             "https://images.pexels.com/photos/35779075/pexels-photo-35779075.jpeg",
-            "https://images.pexels.com/photos/13785147/pexels-photo-13785147.jpeg"
+            "https://images.pexels.com/photos/13785147/pexels-photo-13785147.jpeg",
         ];
 
         let currentindex =0;
