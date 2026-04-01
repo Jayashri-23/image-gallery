@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Food Image Gallery</title>
+    <link rel="stylesheet" href="style.css"/>
+
+  
+</head>
+<body>
+    <div class="gallery-container">
+        <span class="btn-slide btn-left" onclick="slideleft()">❮</span>
+
+        <img src="https://images.pexels.com/photos/11505587/pexels-photo-11505587.jpeg" 
+        class="main-img"
+        alt="image 1"
+        id="main-image"/>
+
+        <span class="btn-slide btn-right" onclick="slideright()">❯</span>
+    </div>
+    <div class="gallery-preview" id="gallery-preview"></div>
+  
+    <script src="script.js"></script>
+</body>
+</html>
