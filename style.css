@@ -5,6 +5,11 @@ body {
   min-height: 100vh;
   margin: 0;
 }
+.heading{
+    font-size: 40px;
+    color: antiquewhite;
+    padding: 30px;
+}
 .main-img {
   height: 150px;
   border-radius: 10px;
